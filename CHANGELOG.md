@@ -1,3 +1,4 @@
+### 0.11.2
 ### 0.11.1
 ### v0.11.0 - 2015-02-05
 * Adding custom tasks to run before or after bump and release
